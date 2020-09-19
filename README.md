@@ -5,7 +5,8 @@
     :bearded_person: Sobre mi
   </h2>
   <details>
-    <summary>  
+    <summary> 
+      Formación, intereses, etc. 
     </summary>
     <lu>
       <li>

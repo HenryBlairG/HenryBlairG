@@ -1,4 +1,4 @@
-## Hola!
+# Hola!
 
 <section>
   <h2>
@@ -26,9 +26,9 @@
 ***
 
 <section>
-  <h1>
+  <h2>
     :bar_chart: Mis Stats de GitHub
-  </h1>
+  </h2>
   <details>
     <summary>
       Hago muchos commits y muy poco de todo lo demás.
@@ -43,9 +43,9 @@
 ***
 
 <section>
-    <h1>
+    <h2>
         :toolbox: Lenguajes y Herramientas...
-    </h1>
+    </h2>
     <details>
       <summary>
         Que Domino

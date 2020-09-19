@@ -21,14 +21,8 @@
     </li>
     <li>
       :dart: Mis objetivos para este 2020 son
-      <lu>
-        <li>
-          Completar los cursos de mi semestre en la universidad 
-        </li>
-        <li>
-          Conseguir una práctica profesional para el 2021.
-        </li>
-      </lu> 
+        * Completar los cursos de mi semestre en la universidad 
+        * Conseguir una práctica profesional para el 2021.
     </li>
     <li>
       :tada: Me encanta jugar Tennis, hacer ejercicio, cocinar sin lavar los 

@@ -83,7 +83,7 @@
     <img 
       alt="Arduino"
       width=30px
-      src="https://i.pinimg.com/originals/11/42/40/1142402fac18ad16bcbab415b254c65c.png"
+      src="https://cdn.iconscout.com/icon/free/png-256/arduino-4-569256.png"
     />
   </details>
   <details>

@@ -1,4 +1,4 @@
-# Hola!
+# :wave: Hola!
 
 <section>
   <h2>

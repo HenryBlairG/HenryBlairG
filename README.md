@@ -53,7 +53,7 @@
     </h2>
     <details>
       <summary>
-        Que Domino
+        :mechanical_arm: Que Domino
       </summary>
       <img 
         alt="Python"
@@ -78,17 +78,17 @@
   </details>
   <details>
     <summary>
-      Que Manejo y me Gustan
+      :muscle: Que Manejo y me Gustan
     </summary>
   </details>
   <details>
     <summary>
-      Que Conozco
+      :ok_hand: Que Conozco
     </summary>
   </details>
   <details>
     <summary>
-      Que Quiero Aprender
+      :monkey_face: Que Quiero Aprender
     </summary>
   </details>
 </section>

@@ -2,11 +2,10 @@
 
 <section>
   <h2>
-    
+    :bearded_person: Sobre mi
   </h2>
   <details>
-    ## <summary>
-      :bearded_person: Sobre mi
+    <summary>  
     </summary>
     <lu>
       <li>

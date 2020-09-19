@@ -50,9 +50,22 @@
         <h1>
             Lenguajes y Herramientas...
         </h1>
-        <details>
-            
-        </details>
+        <lu>
+            <li>
+                <details>
+                    <summary>
+                        Que Domino
+                    </summary>
+                </details>
+            <li>
+            <li>
+                <details>
+                    <summary>
+                        Que Manejo y me Gustan
+                    </summary>
+                </details>
+            <li>
+        </lu>
     </section>
 </body>
 </html>

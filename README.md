@@ -6,27 +6,19 @@
   </h2>
   <lu>
     <li>
-      :robot: Soy estudiante de Pregrado de Ingenirería Civil en Computación 
-      con  Major en Sistemas Autónomos y Robóticos y Minor de 
-      Profundidad en Automatización e Inteligencia Computacional - 
-      Area de Control y Automatización.
+      :robot: Soy estudiante de Pregrado de Ingenirería Civil en Computación con  Major en Sistemas Autónomos y Robóticos, y Minor de Profundidad en Automatización e Inteligencia Computacional(Area de Control y Automatización).
     </li>
     <li>
-      :smiley_cat: Me encanta todo lo relacionado con ciencias de la computación y 
-      su implementación en problemas reales del dia a dia. 
+      :smiley_cat: Me encanta todo lo relacionado con ciencias de la computación y su implementación en problemas reales del dia a dia. 
     </li>
     <li>
-      :mag_right: Busco oportunidades para aplicar todo lo que he aprendido sin 
-      importar la escala, industria o campo al cual se aplique.
+      :mag_right: Busco oportunidades para aplicar todo lo que he aprendido sin importar la escala, industria o campo al cual se aplique.
     </li>
     <li>
-      :dart: Mis objetivos para este 2020 son completar los cursos de mi 
-      semestre en la universidad y conseguir una práctica profesional 
-      para el 2021.
+      :dart: Mis objetivos para este 2020 son completar los cursos de mi semestre en la universidad y conseguir una práctica profesional para el 2021.
     </li>
     <li>
-      :tada: Me encanta jugar Tennis, hacer ejercicio, cocinar sin lavar los 
-      platos, y jugar CATAN con amigos.
+      :tada: Me encanta jugar Tennis, hacer ejercicio, cocinar sin lavar los platos, y jugar CATAN con amigos.
     </li>
   </lu>
 </section>

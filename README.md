@@ -20,9 +20,15 @@
       importar la escala, industria o campo al cual se aplique.
     </li>
     <li>
-      :dart: Mis objetivos para este 2020 son 
-      * Completar los cursos de mi semestre en la universidad 
-      * Conseguir una práctica profesional para el 2021.
+      :dart: Mis objetivos para este 2020 son
+      <lo>
+        <li>
+            Completar los cursos de mi semestre en la universidad 
+        </li>
+        <li>
+          Conseguir una práctica profesional para el 2021.
+        </li>
+      </lo> 
     </li>
     <li>
       :tada: Me encanta jugar Tennis, hacer ejercicio, cocinar sin lavar los 

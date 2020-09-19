@@ -5,9 +5,8 @@
     
   </h2>
   <details>
-    <summary>
-    
-      ## :bearded_person: Sobre mi
+    ## <summary>
+      :bearded_person: Sobre mi
     </summary>
     <lu>
       <li>

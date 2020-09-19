@@ -80,6 +80,11 @@
     <summary>
       :muscle: Que Manejo y me Gustan
     </summary>
+    <img 
+      alt="Arduino"
+      width=30px
+      src="https://www.clipartmax.com/png/middle/100-1008674_intro-arduino-logo-arduino-logo-png.png"
+    />
   </details>
   <details>
     <summary>

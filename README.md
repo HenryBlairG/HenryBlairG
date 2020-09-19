@@ -2,9 +2,12 @@
 
 <section>
   <h2>
-    :bearded_person: Sobre mi
+    
   </h2>
   <details>
+    <summary>
+      ## :bearded_person: Sobre mi
+    </summary>
     <lu>
       <li>
         :robot: Soy estudiante de Pregrado de Ingenirería Civil en Computación con  Major en Sistemas Autónomos y Robóticos, y Minor de Profundidad en Automatización e Inteligencia Computacional(Area de Control y Automatización).

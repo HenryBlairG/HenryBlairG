@@ -36,7 +36,7 @@
   </h2>
   <details>
     <summary>
-      :outbox_tray: Hago muchos commits y muy poco de todo lo demás.
+      :clock4: Hago muchos commits y muy poco de todo lo demás.
     </summary>
     <img 
       alt="GitHub Stats"

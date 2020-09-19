@@ -43,7 +43,7 @@
     </summary>
     <img 
       alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=HenryBlairGcount_private=trushow_icons=true"
+      src="https://github-readme-stats.vercel.app/api?username=HenryBlairG&count_private=true&show_icons=true"
     />
   </details>
 </section>

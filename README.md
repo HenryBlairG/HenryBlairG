@@ -225,6 +225,11 @@
       height=40px
       src="https://iconarchive.com/download/i80410/uiconstock/socialmedia/AWS.ico"
     />
+    <img 
+      alt="Nginx"
+      height=40px
+      src="https://i1.pngguru.com/preview/608/941/210/numix-circle-for-windows-nginx-icon-png-icon.jpg"
+    />
   </details>
 </section>
 

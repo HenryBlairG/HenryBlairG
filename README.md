@@ -165,6 +165,11 @@
       height=100px
       src="https://static.macupdate.com/products/49511/l/openscad-logo.png"
     />
+    <img 
+      alt="DBDiagram.io"
+      height=100px
+      src="https://community.dbdiagram.io/uploads/default/original/1X/e74cdeee58b4327b87f9eac37493e349dce88050.png"
+    />
   </details>
   <details>
     <summary>

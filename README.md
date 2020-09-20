@@ -220,4 +220,4 @@
 
 ***
 
-> Perfil inspirado en el [Perfil de codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md), logos encontrados por Google Imágenes, Los derechos corresponden respectivamente a cada autor de estos logos
+> Perfil inspirado en el [Perfil de codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md), logos encontrados por Google Imágenes

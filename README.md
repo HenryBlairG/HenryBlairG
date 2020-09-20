@@ -185,6 +185,11 @@
       height=80px
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png"
     />
+    <img 
+      alt="Anaconda"
+      height=80px
+      src="https://www.clipartmax.com/png/small/349-3490136_anaconda-icon-anaconda-python-icon.png"
+    />
   </details>
   <details>
     <summary>
@@ -289,6 +294,11 @@
       alt="Atom"
       height=80px
       src="https://chaudharyacademy.com/wp-content/uploads/2019/04/Atom-256.png"
+    />
+    <img 
+      alt="Tableau"
+      height=80px
+      src="https://beeimg.com/images/m81198970211.png"
     />
   </details>
   <details>

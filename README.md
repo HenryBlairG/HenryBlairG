@@ -126,6 +126,16 @@
       src="https://cdn.iconscout.com/icon/free/png-256/aws-282739.png"
     />
     <img 
+      alt="Heroku"
+      height=40px
+      src="https://cdn.iconscout.com/icon/free/png-256/heroku-5-569467.png"
+    />
+    <img 
+      alt="Docker"
+      height=40px
+      src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/947/square_256/docker%282%29.png"
+    />
+    <img 
       alt="Inventor"
       height=40px
       src="https://www.symetri.com/media/1185/inventor-icon-128px-hd.png"

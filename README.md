@@ -91,7 +91,7 @@
       :ok_hand: Que Conozco
     </summary>
     <img 
-      alt="Verilog"
+      alt="Verilog y VHDL con Xilinx"
       width=40px
       src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png"
     />
@@ -99,6 +99,11 @@
       alt="Matlab"
       width=40px
       src="https://icons.iconarchive.com/icons/alecive/flatwoken/256/Apps-Matlab-icon.png"
+    />
+    <img 
+      alt="Ruby"
+      width=40px
+      src="https://cdn.iconscout.com/icon/free/png-256/ruby-46-1175101.png"
     />
   </details>
   <details>

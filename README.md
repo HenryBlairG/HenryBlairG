@@ -120,6 +120,11 @@
       height=40px
       src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png"
     />
+    <img 
+      alt="EC2"
+      height=40px
+      src="https://cdn.iconscout.com/icon/free/png-256/aws-282739.png"
+    />
   </details>
   <details>
     <summary>
@@ -174,6 +179,11 @@
       alt="Java"
       height=40px
       src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png"
+    />
+    <img 
+      alt="AWS"
+      height=40px
+      src="https://iconarchive.com/download/i80410/uiconstock/socialmedia/AWS.ico"
     />
   </details>
   <details>

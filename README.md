@@ -57,22 +57,22 @@
       </summary>
       <img 
         alt="Python"
-        width=40px
+        height=40px
         src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"
       />
       <img 
         alt="Terminal"
-        width=40px
+        height=40px
         src="https://camo.githubusercontent.com/bbfa2a5c01460358f6e1d761b08211d2be318447/687474703a2f2f656c656d656e746172792e696f2f696d616765732f646f63732f68756d616e2d696e746572666163652d67756964656c696e65732f69636f6e732f36342f7574696c69746965732d7465726d696e616c2e737667"
       />
       <img 
         alt="Git"
-        width=40px
+        height=40px
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
       />
       <img 
         alt="VS Code"
-        width=40px
+        height=40px
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
       />
   </details>
@@ -82,17 +82,17 @@
     </summary>
     <img 
       alt="C"
-      width=40px
+      height=40px
       src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"
     />
     <img 
       alt="C++"
-      width=40px
+      height=40px
       src="https://ourcodeworld.com/public-media/gallery/categorielogo-5a284afe1346e.png"
     />
     <img 
       alt="Arduino"
-      width=40px
+      height=40px
       src="https://cdn.iconscout.com/icon/free/png-256/arduino-4-569256.png"
     />
   </details>
@@ -102,18 +102,23 @@
     </summary>
     <img 
       alt="Verilog y VHDL con Xilinx"
-      width=40px
+      height=40px
       src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png"
     />
     <img 
       alt="Matlab"
-      width=40px
+      height=40px
       src="https://icons.iconarchive.com/icons/alecive/flatwoken/256/Apps-Matlab-icon.png"
     />
     <img 
       alt="Ruby"
-      width=40px
+      height=40px
       src="https://cdn.iconscout.com/icon/free/png-256/ruby-46-1175101.png"
+    />
+    <img 
+      alt="Rails"
+      height=40px
+      src="https://findicons.com/files/icons/1607/ruby_on_rails/256/ror_logo.png"
     />
   </details>
   <details>
@@ -122,7 +127,7 @@
     </summary>
     <img 
       alt="C#"
-      width=40px
+      height=40px
       src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
     />
   </details>

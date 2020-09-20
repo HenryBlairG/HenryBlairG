@@ -95,6 +95,11 @@
       height=40px
       src="https://cdn.iconscout.com/icon/free/png-256/arduino-4-569256.png"
     />
+    <img 
+      alt="Html"
+      height=40px
+      src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png"
+    />
   </details>
   <details>
     <summary>
@@ -104,6 +109,11 @@
       alt="Javascript"
       height=40px
       src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png"
+    />
+    <img 
+      alt="CSS"
+      height=40px
+      src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"
     />
     <img 
       alt="Verilog y VHDL con Xilinx"

@@ -105,6 +105,11 @@
       height=40px
       src="https://raw.githubusercontent.com/0install/0install.de-feeds/master/pgAdmin3.png"
     />
+    <img 
+      alt="Jupyter"
+      height=40px
+      src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png"
+    />
   </details>
   <details>
     <summary>

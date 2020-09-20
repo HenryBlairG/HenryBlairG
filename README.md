@@ -188,7 +188,7 @@
     <img 
       alt="Anaconda"
       height=80px
-      src="https://www.clipartmax.com/png/small/349-3490136_anaconda-icon-anaconda-python-icon.png"
+      src="http://test2.dynapse.net/archive/parcels/Anaconda-4.0.0-gjg/lib/python2.7/site-packages/anaconda_navigator/images/anaconda-icon-1024x1024.png"
     />
   </details>
   <details>

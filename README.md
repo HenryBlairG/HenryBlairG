@@ -280,6 +280,16 @@
       height=80px
       src="https://cdn.iconscout.com/icon/free/png-256/trello-226534.png"
     />
+    <img 
+      alt="Pycharm"
+      height=80px
+      src="https://dashboard.snapcraft.io/site_media/appmedia/2017/05/pycharm_logo_256.png"
+    />
+    <img 
+      alt="Atom"
+      height=80px
+      src="https://chaudharyacademy.com/wp-content/uploads/2019/04/Atom-256.png"
+    />
   </details>
   <details>
     <summary>

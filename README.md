@@ -245,6 +245,11 @@
       height=100px
       src="https://assets.cloud.im/prod/ux1/images/logos/gsuite/gsuite-2x.png"
     />
+    <img 
+      alt="Trello"
+      height=100px
+      src="https://cdn.iconscout.com/icon/free/png-256/trello-226534.png"
+    />
   </details>
   <details>
     <summary>

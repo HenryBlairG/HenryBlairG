@@ -180,11 +180,6 @@
       height=40px
       src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png"
     />
-    <img 
-      alt="AWS"
-      height=40px
-      src="https://iconarchive.com/download/i80410/uiconstock/socialmedia/AWS.ico"
-    />
   </details>
   <details>
     <summary>
@@ -199,6 +194,11 @@
       alt="Dart"
       height=40px
       src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/227/square_256/dart-logo.png"
+    />
+    <img 
+      alt="AWS"
+      height=40px
+      src="https://iconarchive.com/download/i80410/uiconstock/socialmedia/AWS.ico"
     />
   </details>
 </section>

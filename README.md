@@ -96,6 +96,11 @@
       src="https://static.nvidiagrid.net/ngc/containers/pytorch-logo-light.png"
     />
     <img 
+      alt="Flask"
+      height=100px
+      src="https://codersera.com/blog/wp-content/uploads/2019/06/flask-1.png"
+    />
+    <img 
       alt="C"
       height=100px
       src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"
@@ -119,6 +124,11 @@
       alt="PostgreSQL"
       height=100px
       src="https://raw.githubusercontent.com/0install/0install.de-feeds/master/pgAdmin3.png"
+    />
+    <img 
+      alt="MongoDB"
+      height=100px
+      src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"
     />
     <img 
       alt="Jupyter"

@@ -258,7 +258,7 @@
     <img 
       alt="Android Studio"
       height=80px
-      src="https://spng.subpng.com/20190129/trr/kisspng-android-studio-integrated-development-environment-android-studio-3-2-1-download-techspot-5c50a63b5ef2f0.6098652315487893073889.jpg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png"
     />
     <img 
       alt="FaunaDB"

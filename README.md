@@ -88,7 +88,7 @@
     <img 
       alt="C"
       width=40px
-      src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png"
+      src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"
     />
     <img 
       alt="C++"
@@ -120,6 +120,11 @@
     <summary>
       :monkey_face: Que Quiero Aprender
     </summary>
+    <img 
+      alt="C#"
+      width=40px
+      src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
+    />
   </details>
 </section>
 

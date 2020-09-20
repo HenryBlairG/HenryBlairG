@@ -293,7 +293,7 @@
     <img 
       alt="Atom"
       height=80px
-      src="https://chaudharyacademy.com/wp-content/uploads/2019/04/Atom-256.png"
+      src="https://1.bp.blogspot.com/-nz-CmoIyrs0/Xtu7GRIQZPI/AAAAAAAABLg/Q_LwfehxgqQrIfrCCdaS5UwXg_IJ6cqFACK4BGAsYHg/s256/atom.png"
     />
     <img 
       alt="Tableau"

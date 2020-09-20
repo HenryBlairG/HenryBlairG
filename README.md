@@ -91,6 +91,11 @@
       :muscle: Que Manejo y me Gustan
     </summary>
     <img 
+      alt="Pytorch"
+      height=100px
+      src="https://static.nvidiagrid.net/ngc/containers/pytorch-logo-light.png"
+    />
+    <img 
       alt="C"
       height=100px
       src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"

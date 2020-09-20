@@ -85,6 +85,16 @@
       width=40px
       src="https://cdn.iconscout.com/icon/free/png-256/arduino-4-569256.png"
     />
+    <img 
+      alt="C"
+      width=40px
+      src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png"
+    />
+    <img 
+      alt="C++"
+      width=40px
+      src="https://ourcodeworld.com/public-media/gallery/categorielogo-5a284afe1346e.png"
+    />
   </details>
   <details>
     <summary>

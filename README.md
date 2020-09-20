@@ -131,6 +131,11 @@
       src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"
     />
     <img 
+      alt="FaunaDB"
+      height=100px
+      src="https://res.cloudinary.com/practicaldev/image/fetch/s--vY70SUm5--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1138/b4bbd0bf-6889-462e-b694-663b1efd4efa.png"
+    />
+    <img 
       alt="Jupyter"
       height=100px
       src="https://miro.medium.com/max/1036/1*FogMIj4gYwp3fTHLZuwavQ.png"

@@ -186,6 +186,11 @@
       :ok_hand: Que Conozco
     </summary>
     <img 
+      alt="Gurobi"
+      height=80px
+      src="https://pbs.twimg.com/profile_images/672696185166008320/HYX-nHsu.png"
+    />
+    <img 
       alt="TensorFlow"
       height=80px
       src="https://i1.wp.com/www.clubdetecnologia.net/wp-content/uploads/2017/11/tensorflow-logo.png"

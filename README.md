@@ -245,6 +245,11 @@
       height=100px
       src="https://quiksite.com/wp-content/uploads/2016/09/Nginx-featured-logo.png"
     />
+    <img 
+      alt="ROS"
+      height=100px
+      src="https://www.theconstructsim.com/wp-content/uploads/2015/10/rosLarge.png"
+    />
   </details>
 </section>
 

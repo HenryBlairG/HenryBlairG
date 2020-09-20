@@ -91,6 +91,11 @@
       :muscle: Que Manejo y me Gustan
     </summary>
     <img 
+      alt="Ubuntu"
+      height=80px
+      src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png"
+    />
+    <img 
       alt="Pytorch"
       height=80px
       src="https://static.nvidiagrid.net/ngc/containers/pytorch-logo-light.png"
@@ -304,6 +309,41 @@
       alt="ROS"
       height=80px
       src="https://www.theconstructsim.com/wp-content/uploads/2015/10/rosLarge.png"
+    />
+  </details>
+</section>
+
+***
+
+<section>
+  <details>
+    <summary>
+      :muscle: Mis Sistemas Operativos favoritos
+    </summary>
+    <img 
+      alt="Ubuntu"
+      height=80px
+      src="https://cdn.freebiesupply.com/logos/large/2x/ubuntu-4-logo-png-transparent.png"
+    />
+    <img 
+      alt="Pop! OS"
+      height=80px
+      src="https://preview.redd.it/ms9je823h6y31.png"
+    />
+    <img 
+      alt="Elementary OS"
+      height=80px
+      src="https://elementary.io/favicon.ico"
+    />
+    <img 
+      alt="Fedora"
+      height=80px
+      src="https://cdn.iconscout.com/icon/free/png-256/fedora-202380.png"
+    />
+    <img 
+      alt="W10"
+      height=80px
+      src="https://mangoh.io/wp-content/uploads/2017/05/Windows-10-logo-larger.png"
     />
   </details>
 </section>

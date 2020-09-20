@@ -95,6 +95,11 @@
       width=40px
       src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png"
     />
+    <img 
+      alt="Matlab"
+      width=40px
+      src="https://icons.iconarchive.com/icons/alecive/flatwoken/256/Apps-Matlab-icon.png"
+    />
   </details>
   <details>
     <summary>

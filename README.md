@@ -155,6 +155,11 @@
       height=40px
       src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/245/square_256/flutterlogo.png"
     />
+    <img 
+      alt="Java"
+      height=40px
+      src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png"
+    />
   </details>
   <details>
     <summary>

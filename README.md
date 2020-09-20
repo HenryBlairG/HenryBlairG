@@ -215,6 +215,11 @@
       height=100px
       src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png"
     />
+    <img 
+      alt="G suite"
+      height=100px
+      src="https://assets.cloud.im/prod/ux1/images/logos/gsuite/gsuite-2x.png"
+    />
   </details>
   <details>
     <summary>

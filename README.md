@@ -312,13 +312,10 @@
     />
   </details>
 </section>
-
-***
-
 <section>
   <details>
     <summary>
-      :muscle: Mis Sistemas Operativos favoritos
+      :gem: Mis Sistemas Operativos favoritos
     </summary>
     <img 
       alt="Ubuntu"

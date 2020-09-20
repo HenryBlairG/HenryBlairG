@@ -328,7 +328,7 @@
     <img 
       alt="Pop! OS"
       height=80px
-      src="https://preview.redd.it/ms9je823h6y31.png"
+      src="https://media.zeemly.com/zeemly/product/popos.png"
     />
     <img 
       alt="Elementary OS"

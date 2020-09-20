@@ -228,7 +228,7 @@
     <img 
       alt="Nginx"
       height=40px
-      src="https://i1.pngguru.com/preview/608/941/210/numix-circle-for-windows-nginx-icon-png-icon.jpg"
+      src="https://quiksite.com/wp-content/uploads/2016/09/Nginx-featured-logo.png"
     />
   </details>
 </section>

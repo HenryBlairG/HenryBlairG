@@ -125,6 +125,11 @@
       height=40px
       src="https://cdn.iconscout.com/icon/free/png-256/php-27-226042.png"
     />
+    <img 
+      alt="Flutter"
+      height=40px
+      src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/245/square_256/flutterlogo.png"
+    />
   </details>
   <details>
     <summary>
@@ -134,6 +139,11 @@
       alt="C#"
       height=40px
       src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"
+    />
+    <img 
+      alt="Dart"
+      height=40px
+      src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/227/square_256/dart-logo.png"
     />
   </details>
 </section>

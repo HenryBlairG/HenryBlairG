@@ -120,6 +120,11 @@
       height=40px
       src="https://findicons.com/files/icons/1607/ruby_on_rails/256/ror_logo.png"
     />
+    <img 
+      alt="PHP"
+      height=40px
+      src="https://cdn.iconscout.com/icon/free/png-256/php-27-226042.png"
+    />
   </details>
   <details>
     <summary>

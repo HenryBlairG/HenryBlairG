@@ -81,11 +81,6 @@
       :muscle: Que Manejo y me Gustan
     </summary>
     <img 
-      alt="Arduino"
-      width=40px
-      src="https://cdn.iconscout.com/icon/free/png-256/arduino-4-569256.png"
-    />
-    <img 
       alt="C"
       width=40px
       src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"
@@ -94,6 +89,11 @@
       alt="C++"
       width=40px
       src="https://ourcodeworld.com/public-media/gallery/categorielogo-5a284afe1346e.png"
+    />
+    <img 
+      alt="Arduino"
+      width=40px
+      src="https://cdn.iconscout.com/icon/free/png-256/arduino-4-569256.png"
     />
   </details>
   <details>

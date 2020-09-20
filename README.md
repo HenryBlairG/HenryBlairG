@@ -181,14 +181,14 @@
       src="https://pbs.twimg.com/profile_images/1300671740935372800/pqKLeNFE_400x400.jpg"
     />
     <img 
-      alt="Markdown"
-      height=80px
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png"
-    />
-    <img 
       alt="Anaconda"
       height=80px
       src="http://test2.dynapse.net/archive/parcels/Anaconda-4.0.0-gjg/lib/python2.7/site-packages/anaconda_navigator/images/anaconda-icon-1024x1024.png"
+    />
+    <img 
+      alt="Markdown"
+      height=80px
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png"
     />
   </details>
   <details>

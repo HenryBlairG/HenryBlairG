@@ -100,6 +100,11 @@
       height=40px
       src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png"
     />
+    <img 
+      alt="PostgreSQL"
+      height=40px
+      src="https://raw.githubusercontent.com/0install/0install.de-feeds/master/pgAdmin3.png"
+    />
   </details>
   <details>
     <summary>

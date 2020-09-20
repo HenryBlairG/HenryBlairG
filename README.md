@@ -101,6 +101,11 @@
       :ok_hand: Que Conozco
     </summary>
     <img 
+      alt="Javascript"
+      height=40px
+      src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png"
+    />
+    <img 
       alt="Verilog y VHDL con Xilinx"
       height=40px
       src="https://user-images.githubusercontent.com/48672827/57464068-a2a35580-72ae-11e9-9d52-7cadbf0cb940.png"

@@ -175,6 +175,11 @@
       height=80px
       src="https://pbs.twimg.com/profile_images/1300671740935372800/pqKLeNFE_400x400.jpg"
     />
+    <img 
+      alt="Markdown"
+      height=80px
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png"
+    />
   </details>
   <details>
     <summary>

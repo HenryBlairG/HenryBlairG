@@ -161,6 +161,11 @@
       :ok_hand: Que Conozco
     </summary>
     <img 
+      alt="TensorFlow"
+      height=100px
+      src="https://i1.wp.com/www.clubdetecnologia.net/wp-content/uploads/2017/11/tensorflow-logo.png"
+    />
+    <img 
       alt="NodeJs"
       height=100px
       src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/square_256/nodejslogo.png"

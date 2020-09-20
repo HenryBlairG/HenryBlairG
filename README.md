@@ -191,6 +191,11 @@
       src="https://i1.wp.com/www.clubdetecnologia.net/wp-content/uploads/2017/11/tensorflow-logo.png"
     />
     <img 
+      alt="R"
+      height=80px
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"
+    />
+    <img 
       alt="NodeJs"
       height=80px
       src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/square_256/nodejslogo.png"

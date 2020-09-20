@@ -180,6 +180,16 @@
       height=40px
       src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png"
     />
+    <img 
+      alt="Inventor"
+      height=40px
+      src="https://www.symetri.com/media/1185/inventor-icon-128px-hd.png"
+    />
+    <img 
+      alt="Fusion 360"
+      height=40px
+      src="https://i0.wp.com/damassets.autodesk.net/content/dam/autodesk/www/products/responsive-imagery/responsive-badges-free-trial/2020/fusion-360-icon-128px-hd.png"
+    />
   </details>
   <details>
     <summary>

@@ -367,5 +367,8 @@
 </section>
 
 ***
+Repos que me gustan:
+* [Awsome](https://awesome.re/)
+***
 
 > Perfil inspirado en el [Perfil de codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md), logos encontrados por Google Imágenes

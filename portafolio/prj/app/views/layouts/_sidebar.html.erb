@@ -1,0 +1,57 @@
+<nav class="col-md-2 d-none d-md-block bg-light sidebar">
+  <div class="sidebar-sticky">
+    <ul class="nav flex-column">
+      <li class="nav-item">
+        <%= link_to 'My accounts', user_path(current_user), class: 'nav-link' %>
+      </li>
+    </ul>
+
+    <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
+      <span>Register</span>
+      <a class="d-flex align-items-center text-muted" href="#">
+        <span data-feather="plus-circle"></span>
+      </a>
+    </h6>
+    <ul class="nav flex-column mb-2">
+      <li class="nav-item">
+        <%= link_to '+ Transaction', transaction_maker_user_path(current_user), class: 'nav-link' %>
+      </li>
+      <li class="nav-item">
+        <%= link_to '+ Transfer', transaction_maker_user_path(current_user), class: 'nav-link' %>
+      </li>
+    </ul>
+
+    <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
+      <span>Create</span>
+      <a class="d-flex align-items-center text-muted" href="#">
+        <span data-feather="plus-circle"></span>
+      </a>
+    </h6>
+    <ul class="nav flex-column mb-2">
+      <li class="nav-item">
+        <%= link_to '+ Debit Account', new_user_debit_account_path(current_user), class: 'nav-link' %>
+      </li>
+      <li class="nav-item">
+        <%= link_to '+ Checking Account', new_user_checking_account_path(current_user), class: 'nav-link' %>
+      </li>
+      <li class="nav-item">
+        <%= link_to '+ Credit Account', new_user_credit_account_path(current_user), class: 'nav-link' %>
+      </li>
+    </ul>
+
+    <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
+      <span>Administrate</span>
+      <a class="d-flex align-items-center text-muted" href="#">
+        <span data-feather="plus-circle"></span>
+      </a>
+    </h6>
+    <ul class="nav flex-column mb-2">
+      <li class="nav-item">
+        <%= link_to '+ Categories', categories_path, class: 'nav-link' %>
+      </li>
+      <li class="nav-item">
+        <%= link_to '+ Users', users_path, class: 'nav-link' %>
+      </li>
+    </ul>
+  </div>
+</nav>

@@ -1,0 +1,25 @@
+<nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
+<%= link_to 'WalleTest', root_path, class: 'navbar-brand col-sm-1 col-md-1 mr-0' %>
+<% if current_user %>
+  <div class="navbar-nav-scroll">
+    <ul class="navbar-nav bd-navbar-nav flex-row">
+      <li class="nav-item pr-5 pl-4">
+        <div class='nav-link'>Hi! <%= current_user.email %> </div>
+      </li>
+      <li class="nav-item px-1">
+        <%= link_to 'My accounts', user_path(current_user), class: 'nav-link' %>
+      </li>
+      <li class="nav-item px-1">
+        <%= link_to 'My profile', edit_user_path(current_user), class: 'nav-link' %>
+      </li>
+    </ul>
+  </div>
+
+  <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex px-3">
+    <li class="nav-item text-nowrap">
+      <%= link_to 'Sign Out', destroy_user_session_path, method: :delete, class: 'nav-link' %>
+    </li>
+  </ul>
+<% end %>
+</nav>
+<br>

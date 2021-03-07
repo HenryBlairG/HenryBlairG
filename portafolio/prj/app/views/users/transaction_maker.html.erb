@@ -1,0 +1,83 @@
+
+
+<ul class="nav nav-tabs" id="myTab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="transaction"
+      aria-selected="true">Home</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="transaction-tab" data-toggle="tab" href="#transaction" role="tab" aria-controls="transaction"
+      aria-selected="false">Transaction Between your Accounts</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="transfer-tab" data-toggle="tab" href="#transfer" role="tab" aria-controls="transfer"
+      aria-selected="false">Transfer To Third Party Accounts</a>
+  </li>
+</ul>
+<br>
+<div class="tab-content" id="myTabContent">
+
+    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+        <p><h4>Select Type of Operation</h4></p>
+    </div>
+  <div class="tab-pane fade" id="transaction" role="tabpanel" aria-labelledby="home-tab">
+        <div class="transaction">
+  <h2>Transaction </h2>
+    <%= form_with model: @user, url: account_router_user_path(@user), method: 'post' do |form| %>
+        <%= form.label 'Debit accounts' %><br>
+        <%= form.collection_select :debit_account_id, @user.debit_accounts, :id, :id, { prompt: '-- Select a Debit Account --' } %>
+        <div class=" actions ">
+          <%= form.submit 'Create transaction', class: 'btn btn-primary' %>
+        </div>
+    <% end %>
+
+    <%= form_with model: @user, url: account_router_user_path(@user), method: 'post' do |form| %>
+        <%= form.label 'Checking accounts' %><br>
+        <%= form.collection_select :checking_account_id, @user.checking_accounts, :id, :id, { prompt: '-- Select a Checking Account --' } %>
+        <div class=" actions ">
+          <%= form.submit 'Create transaction', class: 'btn btn-primary' %>
+        </div>
+    <% end %>
+
+    <%= form_with model: @user, url: account_router_user_path(@user), method: 'post' do |form| %>
+        <%= form.label 'Credit accounts' %><br>
+        <%= form.collection_select :credit_account_id, @user.credit_accounts, :id, :id, { prompt: '-- Select a Credit Account --' } %>
+        <div class=" actions ">
+          <%= form.submit 'Create transaction', class: 'btn btn-primary' %>
+        </div>
+    <% end %>
+
+</div>
+  </div>
+  <div class="tab-pane fade" id="transfer" role="tabpanel" aria-labelledby="transfer-tab">
+        <div class="transfer">
+  <h2>Transfer </h2>
+    <%= form_with model: @user, url: account_router_user_path(@user), method: 'post' do |form| %>
+        <%= form.label 'Debit accounts' %><br>
+        <%= form.collection_select :debit_account_id_transf, @user.debit_accounts, :id, :id, { prompt: '-- Select a Debit Account --' } %>
+        <div class=" actions ">
+          <%= form.submit 'Create transfer', class: 'btn btn-primary' %>
+        </div>
+    <% end %>
+
+    <%= form_with model: @user, url: account_router_user_path(@user), method: 'post' do |form| %>
+        <%= form.label 'Checking accounts' %><br>
+        <%= form.collection_select :checking_account_id_transf, @user.checking_accounts, :id, :id, { prompt: '-- Select a Checking Account --' } %>
+        <div class=" actions ">
+          <%= form.submit 'Create transfer', class: 'btn btn-primary' %>
+        </div>
+    <% end %>
+
+    <%= form_with model: @user, url: account_router_user_path(@user), method: 'post' do |form| %>
+        <%= form.label 'Credit accounts' %><br>
+        <%= form.collection_select :credit_account_id_transf, @user.credit_accounts, :id, :id, { prompt: '-- Select a Credit Account --' } %>
+        <div class=" actions ">
+          <%= form.submit 'Create transfer', class: 'btn btn-primary' %>
+        </div>
+    <% end %>
+
+</div>
+  </div>
+
+    <hr>
+</div>

@@ -1,0 +1,31 @@
+<%= form_with(model: [user, account], local: true) do |form| %>
+  <% if account.errors.any? %>
+    <div class="alert alert-danger" role="alert">
+      <h2><%= pluralize(account.errors.count, 'error') %> prohibited this account from being saved:</h2>
+
+      <ul>
+        <% account.errors.full_messages.each do |message| %>
+          <li><%= message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="form_box">
+
+    <div class="form-group">
+      <%= form.label :liquid_balance %>
+      <%= form.number_field :liquid_balance, class: 'form-control' %>
+    </div>
+
+    <div class="form-group">
+      <%= form.label :currency %>
+      <%= form.select :currency, %w[CLP USD], {}, { class: 'form-control' } %>
+    </div>
+
+    <div class="actions">
+      <%= form.submit 'Create checking account', class: 'btn btn-primary' %>
+    </div>
+    <br>
+  </div>
+<% end %>

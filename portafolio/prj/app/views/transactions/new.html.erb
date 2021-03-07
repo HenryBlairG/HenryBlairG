@@ -1,0 +1,12 @@
+<h2>New transaction</h2>
+<h5><%= @account_type.to_s.titleize %> id: <%= @account.id %></h5>
+<h5>Liquid balance: <%= @account.liquid_balance %></h5>
+<% if !@account_type.eql? :debit_account %>
+<h5>Illiquid balance: <%= @account.illiquid_balance %></h5>
+<% end %>
+<hr>
+
+<%= render 'form', user: @user, account: @account, transaction: @transaction %>
+
+<%= link_to 'Back', transaction_maker_user_path(@user), type: 'button', class: 'btn btn-dark' %>
+<br><br>

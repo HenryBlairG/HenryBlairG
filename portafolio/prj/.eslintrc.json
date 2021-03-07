@@ -1,0 +1,21 @@
+{
+  "extends": "google",
+  "rules": {
+    "comma-dangle": ["error", "never"],
+    "no-undef": "error",
+    "new-cap": ["error", { "capIsNewExceptions": ["DataTable"] }],
+    "quote-props": ["error", "as-needed"],
+    "space-in-parens": ["error", "never"],
+    "indent": ["error", 2]
+  },
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module",
+    "allowImportExportEverywhere": true
+  },
+  "env": {
+    "node": true
+  },
+  "globals": {
+  }
+}

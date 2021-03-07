@@ -1,0 +1,69 @@
+<% if user_signed_in? %>
+    <h2>My dashboard</h2>
+    <hr>
+    <h3>Last transactions</h3>
+    <table class="table">
+        <thead class='thead-light'>
+            <tr>
+                <th>#</th>
+                <th>Amount</th>
+                <th>Account</th>
+                <th>Currency</th>
+                <th>Description</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <% @transactions.each_with_index do |transaction, index| %>
+            <tr>
+                <td><%= index + 1 %></td>
+                <td><%= transaction.amount %></td>
+                <td><%= transaction.origin_type %></td>
+                <td><%= transaction.currency %></td>
+                <td><%= transaction.description %></td>
+                <td><%= transaction.created_at %></td>
+            </tr>
+            <% end %>
+        </tbody>
+    </table>
+
+    <br><br>
+    <h3>Balance</h3>
+    <table class="table">
+        <thead class='thead-light'>
+            <tr>
+                <th>Account</th>
+                <th>Account Number</th>
+                <th>Amount</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <% @debit_accounts.each_with_index do |debit, index| %>
+                <tr>
+                    <td>Debit</td>
+                    <td><%= debit.id %></td>
+                    <td><%= debit.liquid_balance %></td>
+                <tr>
+            <% end %>
+            <% @credit_accounts.each_with_index do |credit, index| %>
+                <tr>
+                    <td>Credit</td>
+                    <td><%= credit.id %></td>
+                    <td><%= credit.liquid_balance %></td>
+                <tr>
+            <% end %>
+            <% @checking_accounts.each_with_index do |checking, index| %>
+                <tr>
+                    <td>Checking</td>
+                    <td><%= checking.id %></td>
+                    <td><%= checking.liquid_balance %></td>
+                <tr>
+            <% end %>
+        </tbody>
+    </table>
+
+<% else %>
+<%= render 'portal' %>
+<% end %>
